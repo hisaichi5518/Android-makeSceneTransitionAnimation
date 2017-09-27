@@ -2,4 +2,4 @@
 
 ## ScreenCapture
 
-<img src="images/sample.gif" width="320px">
+<img src="images/screencapture.gif" width="320px">
